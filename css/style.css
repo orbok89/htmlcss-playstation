@@ -49,3 +49,12 @@
 .bg-now{
     background-color: #061B54;
 }
+.resize-2{
+    width: 150px;
+}
+.resize-mini{
+    width: 15px;
+}
+ul{
+    list-style-type: none; 
+}
