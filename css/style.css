@@ -28,7 +28,7 @@ body{
     margin: 0 auto;
 }
 .resize-7{
-    width: 90%;
+    width: 97%;
     margin: 0 auto;
 }
 .bg-jumbotron2{
@@ -76,4 +76,9 @@ ul{
 }
 .bluu{
     color: rgb(0, 145, 255);
+}
+.custom-b {
+    color: blue;
+    background-color: lightgrey;
+    border-radius: 40px;
 }
