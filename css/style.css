@@ -2,6 +2,10 @@
     padding: 0%;
     margin: 0%;
     box-sizing: border-box;
+    max-width: 1440px;
+}
+body{
+    margin: auto;
 }
 .resize{
     width: 100px;
@@ -20,7 +24,7 @@
 
 }
 .resize-6{
-    width: 80%;
+    width: 85%;
     margin: 0 auto;
 }
 .resize-7{
@@ -41,7 +45,7 @@
     background-size: 1440px;
     background-color: #2C2C2C;
 }
-#tondo {
+.tondo {
     border-radius: 40px;
 }
 .bg-plus{
@@ -59,4 +63,17 @@
 }
 ul{
     list-style-type: none; 
+}
+
+.contorno{
+    border-radius: 30px;
+    border: 1px solid white;
+
+}
+.contorno:hover{
+
+    box-shadow: 0 0 0 2pt rgb(0, 89, 255);
+}
+.bluu{
+    color: rgb(0, 145, 255);
 }
